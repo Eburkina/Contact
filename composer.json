@@ -1,0 +1,14 @@
+{
+    "name": "eservice/contact",
+    "description": "Package de gestion des contacts",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Switch maker",
+            "email": "a.traore@switch-maker.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
