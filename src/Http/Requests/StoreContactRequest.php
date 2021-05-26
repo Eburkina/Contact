@@ -1,6 +1,6 @@
 <?php
 
-namespace Eservice\Contact\Http\Requests;
+namespace Eburkina\Contact\Http\Requests;
 
 use Illuminate\Foundation\Http\FormRequest;
 

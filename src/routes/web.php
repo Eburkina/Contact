@@ -1,7 +1,7 @@
 <?php
 
-use Eservice\Contact\Http\Controllers\ContactController;
-use Eservice\Contact\Http\Controllers\PagesController;
+use Eburkina\Contact\Http\Controllers\ContactController;
+use Eburkina\Contact\Http\Controllers\PagesController;
 use Illuminate\Support\Facades\Route;
     
 

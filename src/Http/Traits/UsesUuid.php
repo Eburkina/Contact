@@ -1,5 +1,5 @@
 <?php
-namespace Eservice\Contact\Http\Traits;
+namespace Eburkina\Contact\Http\Traits;
 use Illuminate\Support\Str;
 
 trait UsesUuid

@@ -1,8 +1,8 @@
 <?php
 
-namespace Eservice\Contact\Models;
+namespace Eburkina\Contact\Models;
 
-use Eservice\Contact\Http\Traits\UsesUuid;
+use Eburkina\Contact\Http\Traits\UsesUuid;
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;
 

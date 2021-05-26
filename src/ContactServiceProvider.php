@@ -1,6 +1,6 @@
 <?php
 
-namespace Eservice\Contact;
+namespace Eburkina\Contact;
 
 use Illuminate\Support\ServiceProvider;
 

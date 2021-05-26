@@ -1,11 +1,11 @@
 <?php
 
-namespace Eservice\Contact\Http\Controllers;
+namespace Eburkina\Contact\Http\Controllers;
 
 use App\Http\Controllers\Controller;
 
-use Eservice\Contact\Http\Requests\StoreContactRequest;
-use Eservice\Contact\Models\Contact;
+use Eburkina\Contact\Http\Requests\StoreContactRequest;
+use Eburkina\Contact\Models\Contact;
 use Illuminate\Http\Request;
 
 class ContactController extends Controller
